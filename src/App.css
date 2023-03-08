@@ -27,10 +27,10 @@ header{
 .case{
   width: 400px;
   height: 700px;
-  background: #d8d8d8;
+  background: #535667d2;
   margin: 0 auto;
   margin-top: 30px;
-  border: 6px solid #264545;
+  border: 6px solid #3b8383;
   border-radius: 20px;
   border-bottom-right-radius: 100px;
   overflow:hidden
@@ -75,7 +75,7 @@ header{
 .dot {
   width: 10px;
   height: 10px;
-  background: #264545;
+  background: #3a6d6d;
   border-radius: 50%;
   margin-top: 70px;
   margin-left: 15px;

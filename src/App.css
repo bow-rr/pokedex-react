@@ -99,7 +99,7 @@ header{
   width: 90px;
   height: 30px;
   background: #264545;
-  border-radius: 6px;
+  border-radius: 9px;
   margin-top: 30px;
 }
 
@@ -107,18 +107,18 @@ header{
   width: 30px;
   height: 90px;
   background: #264545;
-  border-radius: 6px;
+  border-radius: 9px;
   margin: -60px auto;
 }
 
 .buttons {
   width: 30px;
   height: 30px;
-  background: #F4706C;
+  background: #1aab76b4;
   border-radius: 50%;
   float: right;
   margin-top: -50px;
-  box-shadow: -50px 15px 0px 0px #F4706C;
+  box-shadow: -50px 15px 0px 0px #71f46c;
 }
 
 .starts {
